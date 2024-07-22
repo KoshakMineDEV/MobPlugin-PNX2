@@ -3,7 +3,3 @@ MobPlugin is a plugin that implements mobs and animals for NukkitX servers inclu
 
 This is a modified version for PowerNukkitX, you can learn about the original version from here  
 https://github.com/Nukkit-coders/MobPlugin
-
-
-## Download
-https://ci.lanink.cn/job/MobPlugin/job/PNX/
